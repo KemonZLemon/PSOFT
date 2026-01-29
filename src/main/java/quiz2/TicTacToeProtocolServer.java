@@ -1,7 +1,7 @@
 /**
  * 
  */
-package edu.rpi.csci2600.gildem4;
+package quiz2;
 
 import java.io.*;
 import java.net.*;

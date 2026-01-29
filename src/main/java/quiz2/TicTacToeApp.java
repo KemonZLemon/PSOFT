@@ -2,7 +2,7 @@
  * 
  */
 
-package edu.rpi.csci2600.gildem4;
+package quiz2;
 
 import java.util.*;
 import java.util.logging.FileHandler;
